@@ -1,0 +1,6 @@
+module Pods_PopularMovies {
+  umbrella header "Pods-PopularMovies-umbrella.h"
+
+  export *
+  module * { export * }
+}
